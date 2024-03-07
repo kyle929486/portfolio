@@ -8,7 +8,7 @@
         </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝Projects </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 여행 스케줄</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🚗국내 여행 스케줄 추천<br/>2023년 11월 23일부터 시작해서 한 달 간 진행한 프로젝트입니다</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
