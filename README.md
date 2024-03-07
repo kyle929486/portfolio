@@ -1,17 +1,26 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=전광현%20포트폴리오&animation=fadeIn&fontColor=000000&fontSize=40" />
-    </div>
+</div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Intro </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요!</li>  </li></li>한 걸음씩 성장하는 개발자, 전광현입니다.</li> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋Intro </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        안녕하세요!</li><br/> </li></li> 한 걸음씩 성장하는 개발자, 전광현입니다.</li><br/>
+    </div> 
     </div>
-        </div>
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝Projects </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🚗국내 여행 스케줄 추천<br/>2023년 11월 23일부터 시작해서 한 달 간 진행한 프로젝트입니다</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <h3>🚗국내 여행 스케줄 추천 - 핫도리</h3>
+        <a href="https://github.com/kyle929486/HotProject">프로젝트 상세 설명</a>
+    </li> 
+        <li>기획 기간 : 2023-11-23 ~ 2023-12-04</li>
+        <li>개발 기간 : 2023-12-04 ~ 2023-12-27</li>
+        <li>맡은 역할 : 로그인/소셜 로그인, 회원가입, 아이디/비밀번호 찾기, 여행엽서 페이지</li>
+    </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
@@ -26,11 +35,11 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:kyle929486@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kyle929486@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
+        </div>
+        <div style="text-align: left;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️Contact me </h2> <br> 
+        <div style="text-align: left;"> <a href=mailto:kyle929486@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kyle929486@gmail.com"> </a>
+              </div>  <br> 
+        <div style="text-align: left;">  </div> 
     </div>
     
