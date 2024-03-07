@@ -1,45 +1,76 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=전광현%20포트폴리오&animation=fadeIn&fontColor=000000&fontSize=40" />
-</div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋Intro </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        안녕하세요!</li><br/> </li></li> 한 걸음씩 성장하는 개발자, 전광현입니다.</li><br/>
-    </div> 
     </div>
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝Projects </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        <h3>🚗국내 여행 스케줄 추천 - 핫도리</h3>
-        <a href="https://github.com/kyle929486/HotProject">프로젝트 상세 설명</a>
-    </li> 
-        <li>기획 기간 : 2023-11-23 ~ 2023-12-04</li>
-        <li>개발 기간 : 2023-12-04 ~ 2023-12-27</li>
-        <li>맡은 역할 : 로그인/소셜 로그인, 회원가입, 아이디/비밀번호 찾기, 여행엽서 페이지</li>
-    </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-          </div>
-        </div>
-        <div style="text-align: left;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️Contact me </h2> <br> 
-        <div style="text-align: left;"> <a href=mailto:kyle929486@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kyle929486@gmail.com"> </a>
-              </div>  <br> 
-        <div style="text-align: left;">  </div> 
-    </div>
+
+# 👋소개
+
+
+안녕하세요! **'꼼꼼함'** 이 장점인 전광현입니다!<br/><br/>
+6개월 동안 국비 지원 과정 수업을 들으며 웹 개발에 필요한 언어 및 프로그램을 익혔고,<br/>
+팀 프로젝트를 통해 하나의 웹 어플리케이션을 제작하는 과정을 경험했습니다.<br/><br/>
+팀 프로젝트를 진행했을 때, 하나의 문제를 해결하기 위하여 며칠 동안 밤을 새가며 고민하곤 했습니다.<br/>
+그렇게 오랜 시간을 고민한 끝에 문제를 해결했을 때, 희열과 다음으로 나아갈 수 있는 힘을 얻을 수 있었습니다.<br/>
+앞으로도 그런 성취감을 느끼며 한 걸음, 한 걸음 성장해 나가겠습니다!<br/><br/>
+
+
     
+# 📝프로젝트
+
+
+### 🚗 핫도리 - 국내 여행 스케줄 추천 페이지<br/><br/>
+#### 🏅 2023 KIT 해커톤 공모전 장려상 수상
+
+- 기획 기간 : 2023.11.23 ~ 2023.12.04
+- 개발 기간 : 2023.12.04 ~ 2023.12.27
+- 맡은 역할 : 로그인, 회원가입, 아이디/비밀번호 찾기, 여행엽서 페이지
+- 주요 기술 : JAVA, Spring, MyBatis, SpringSecurity, SpringOath2Client, HTML, CSS, BootStrap, JavaScript, jQuery
+- [프로젝트 상세 설명](https://github.com/kyle929486/HotProject)
+<br/><br/>
+
+# 📚국비 지원 과정 교육 내역서
+
+#### 이수 과정명
+- (핀테크) Spring 기반 핀테크 개발자
+
+#### 교육 기간
+- 2023.09.07 ~ 2023.03.21 (총 963시간)
+
+#### 교육 내용 
+
+- **JAVA 프로그래밍 (120시간)** <br/>
+    기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, IOStream, Stream, Lambda
+
+- **RDBMS (40시간)** <br/>
+    DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션, ER-diagram, 정규화
+
+- **웹 표준  (128시간)**  <br/>
+    HTML 5 / CSS3 / JavaScript / jQuery  <br/>
+    반응형웹 / BootStrap / AJAX. fetch API / JSON / XML 
+
+- **Spring Framework (88시간)** <br/>
+    Dependency Injection, Autowire, DI Config,  SpringBoot, Sping MVC  <br/>
+    request mapping, validation, Security,  MyBatis, RestTemplate
+
+- **GitHub (8시간)** <br/>
+
+- **Linux, AWS  (16시간)** <br/>
+    배포,  자동재배포
+
+- **스프링 기반 웹 애플리케이션 프로젝트 (176시간)**
+
+- **React (64시간)** <br/>
+    component, JSX, state, hooks, props, styled-components, flux, Redux
+
+- **최종 프로젝트 (168시간)** <br/>
+
+- **파이썬 프로그래밍 (40 시간)** <br/>
+    기본문법, 제어문, list, tuple, dict, str, lamba, class, 상속, 오버라이딩, Iterable, File, Inner Func, Closure, generator, decorator
+
+- **데이터수집 (20 시간)**  <br/>
+    웹크롤링, 정제, 저장, BeautifulSoup, request, selenium
+
+- **데이터분석 (30 시간)**  <br/>
+    jupyter numpy pandas matplotlib EDA 실무데이터분석
+
+- **머신러닝 (55 시간)** <br/>
+    scikit-learn, classification, regression, deep learning, Tensorflow, Pytorch, CNN
