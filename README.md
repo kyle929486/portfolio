@@ -66,11 +66,6 @@
 - **파이썬 프로그래밍 (40 시간)** <br/>
     기본문법, 제어문, list, tuple, dict, str, lamba, class, 상속, 오버라이딩, Iterable, File, Inner Func, Closure, generator, decorator
 
-- **데이터수집 (20 시간)**  <br/>
-    웹크롤링, 정제, 저장, BeautifulSoup, request, selenium
-
 - **데이터분석 (30 시간)**  <br/>
-    jupyter numpy pandas matplotlib EDA 실무데이터분석
+    numpy pandas 
 
-- **머신러닝 (55 시간)** <br/>
-    scikit-learn, classification, regression, deep learning, Tensorflow, Pytorch, CNN
